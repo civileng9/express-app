@@ -1,0 +1,18 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express-app",
+    "first-express-app"
+  ],
+  "author": "civileng9",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
